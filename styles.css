@@ -78,7 +78,7 @@ a.active:hover:after, a:hover {
 }
 .para {
   font-size: 1rem;
-  color: rgba(255, 255, 255, 0.096);
+  color: rgba(255, 255, 255, 0.568);
   width: 30%;
   line-height: 1.5rem;
   margin-bottom: 1.5rem;
@@ -214,4 +214,5 @@ input[type=submit] {
   .para {
     width: 80%;
   }
+  
 }
